@@ -3,7 +3,7 @@ function cekJawaban() {
     const pesan = document.getElementById('pesan');
 
     // Ubah jawaban ini sesuai dengan teka-teki yang ingin kamu buat
-    if (jawaban === '7') {
+    if (jawaban === '3') {
         // Jika benar, arahkan ke halaman hadiah.html
         window.location.href = 'hadiah.html';
     } else {
